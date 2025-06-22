@@ -1,0 +1,11 @@
+a = int(input())
+b = int(input())
+c = int(input())
+ans = []
+ans.append(a*b*c)
+ans.append(a*b+c)
+ans.append(a*(b+c))
+ans.append(a+b*c)
+ans.append((a+b)*c)
+ans.append(a+b+c)
+print(max(ans))

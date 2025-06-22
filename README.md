@@ -8,36 +8,32 @@ As a physics undergraduate at PKU, I started to organize my learning resources s
 
 ## Table of Contents
 
-### Politics Courses
-
-#### Ideology, morality and Law
-
-#### Outline of Chinese Modern History
+### [Politics Courses](Politics) (Ideology, morality and Law, Outline of Chinese Modern History)
 
 ### English Courses
 
-#### English Public Speaking
+#### [English Public Speaking](English_Public_Speaking)
 
-### Math Courses (Advanced Math A, Linear Algebra B)
+### [Math Courses](Math) (Advanced Math A, Linear Algebra B)
 
 ### Computing Courses
 
-#### Introduction to Computation B (Algorithm and Data Structure B)
+#### [Introduction to Computation B](Introduction_to_Computation_B) (Algorithm and Data Structure B)
 
-#### Data Structure and Algorithm B
+#### [Data Structure and Algorithm B](Data_Structure_and_Algorithm_B)
 
 ### Physics Courses
 
-#### Thermal Physics
+#### [Thermal Physics](Thermal_Physics)
 
-#### Fundamentals of Theoretical Physics I
+#### [Fundamentals of Theoretical Physics I](Fundamentals_of_Theoretical_Physics_I)
 
-#### Fundamentals of Theoretical Physics II
+#### [Fundamentals of Theoretical Physics II](Fundamentals_of_Theoretical_Physics_II)
 
-#### Methods of Mathematical Physics
+#### [Methods of Mathematical Physics](Methods_of_Mathematical_Physics)
 
-#### Theoretical Mechanics
+#### [Theoretical Mechanics](Theoretical_Mechanics)
 
-#### Statistical methods in experimental physics (Statistical Data Analysis)
+#### [Statistical methods in experimental physics](Statistical_Methods) (Statistical Data Analysis)
 
-#### General Physics Lab
+#### [General Physics Lab](General_Physics_Lab)
