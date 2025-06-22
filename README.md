@@ -34,6 +34,6 @@ As a physics undergraduate at PKU, I started to organize my learning resources s
 
 #### [Theoretical Mechanics](Theoretical_Mechanics)
 
-#### [Statistical methods in experimental physics](Statistical_Methods_in_experimental_physics) (Statistical Data Analysis)
+#### [Statistical methods in experimental physics](Statistical_methods_in_experimental_physics) (Statistical Data Analysis)
 
 #### [General Physics Lab](General_Physics_Lab)
