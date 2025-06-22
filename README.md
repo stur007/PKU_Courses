@@ -8,13 +8,13 @@ As a physics undergraduate at PKU, I started to organize my learning resources s
 
 ## Table of Contents
 
-### [Politics Courses](Politics) (Ideology, morality and Law, Outline of Chinese Modern History)
+### [Politics Courses](Politics_Courses) (Ideology, morality and Law, Outline of Chinese Modern History)
 
 ### English Courses
 
 #### [English Public Speaking](English_Public_Speaking)
 
-### [Math Courses](Math) (Advanced Math A, Linear Algebra B)
+### [Math Courses](Math_Courses) (Advanced Math A, Linear Algebra B)
 
 ### Computing Courses
 
