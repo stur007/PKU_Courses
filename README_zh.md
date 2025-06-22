@@ -34,6 +34,6 @@
 
 #### [理论力学](Theoretical_Mechanics)
 
-#### [实验物理中的统计方法](Statistical_Methods)
+#### [实验物理中的统计方法](Statistical_Methods_in_experimental_physics) 
 
 #### [普通物理实验](General_Physics_Lab)
